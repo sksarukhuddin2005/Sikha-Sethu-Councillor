@@ -1,0 +1,6 @@
+{
+  "name": "AdmitFlow CMS - HigherEd Admissions & Lead Management",
+  "description": "Week 1 HigherEd Admissions CMS: Master inquiry tracking across 7 lead stages, course & college catalog, finalized schema, role management, deduplication, and backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
